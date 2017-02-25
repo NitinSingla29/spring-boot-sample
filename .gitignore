@@ -16,4 +16,4 @@ hs_err_pid*
 
 #Ignore intellij files
 .idea/
-spring-boot-application.iml
+spring-boot-sample.iml
