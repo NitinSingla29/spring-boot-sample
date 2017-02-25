@@ -1,5 +1,6 @@
 #[spring-boot-sample](http://localhost:8080/)
 
+This is a sample application for spring boot web mvc. It has following end points
 #####Application end points
 -   **Application starting point** [http://localhost:8080/](http://localhost:8080/)
 -   **hello end point** [http://localhost:8080/hello](http://localhost:8080/hello)
